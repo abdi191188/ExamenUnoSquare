@@ -1,2 +1,2 @@
 # ExamenUnoSquare
-Proyecto con Visual 2017
+El Proyecto debe ejecutarse con Visual studio 2017
