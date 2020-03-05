@@ -1,0 +1,11 @@
+C:\Users\PC-INTEL\Downloads\BoomMenu-XamarinBindings-master\BoomMenu-XamarinBindings-master\bin\Debug\Binding_Boommenu-211.dll
+C:\Users\PC-INTEL\Downloads\BoomMenu-XamarinBindings-master\BoomMenu-XamarinBindings-master\bin\Debug\Binding_Boommenu-211.pdb
+C:\Users\PC-INTEL\Downloads\BoomMenu-XamarinBindings-master\BoomMenu-XamarinBindings-master\obj\Debug\Binding_Boommenu-211.csprojAssemblyReference.cache
+C:\Users\PC-INTEL\Downloads\BoomMenu-XamarinBindings-master\BoomMenu-XamarinBindings-master\obj\Debug\Binding_Boommenu-211.csproj.CoreCompileInputs.cache
+C:\Users\PC-INTEL\Downloads\BoomMenu-XamarinBindings-master\BoomMenu-XamarinBindings-master\obj\Debug\Binding_Boommenu-211.dll
+C:\Users\PC-INTEL\Downloads\BoomMenu-XamarinBindings-master\BoomMenu-XamarinBindings-master\obj\Debug\Binding_Boommenu-211.pdb
+C:\Users\PC-INTEL\source\repos\App3\BoomMenu-XamarinBindings-master\bin\Debug\Binding_Boommenu-211.dll
+C:\Users\PC-INTEL\source\repos\App3\BoomMenu-XamarinBindings-master\bin\Debug\Binding_Boommenu-211.pdb
+C:\Users\PC-INTEL\source\repos\App3\BoomMenu-XamarinBindings-master\obj\Debug\Binding_Boommenu-211.csproj.CoreCompileInputs.cache
+C:\Users\PC-INTEL\source\repos\App3\BoomMenu-XamarinBindings-master\obj\Debug\Binding_Boommenu-211.dll
+C:\Users\PC-INTEL\source\repos\App3\BoomMenu-XamarinBindings-master\obj\Debug\Binding_Boommenu-211.pdb
